@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<methodCall>
+    <methodName>setParameters</methodName>
+    <params>
+        <param>
+            <value>
+                <string>/viper[1]/slotList/slot[1]/card</string>
+            </value>
+        </param>
+        <param>
+            <value>
+                <string></string>
+            </value>
+        </param>
+    </params>
+</methodCall>
